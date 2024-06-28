@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Addiction Relief Website",
+    "desc": "full stack website built using html.css,javascript and backend with php,Angularjs as sramework and Mysql database",
+    "image": "addiction",
+    "category": "Website",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Text Editor using Java",
+    "desc": "Java based app which is act similarly as notepad and includes all options like cut,copy,paste etc.",
+    "image": "text",
+    "category": "app",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+  
+  
+  
+  
+  
+  
+]
+  
+ 
+  
+ 
