@@ -20,4 +20,4 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 Feel free to reach me through the below handles if you'd like to contact me.
 
 [![linkedin](https://www.linkedin.com/in/mithun-mithun-334848214/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BJgoObot5QgGD9WBC589JKw%3D%3D)
-[![mail id](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](mailto:mithunnpp07@gmail.com)
+[![mail id](https://img.shields.io/badge/Mail-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](mailto:mithunnpp07@gmail.com)
